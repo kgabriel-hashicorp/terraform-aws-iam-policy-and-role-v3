@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1](https://github.com/kgabriel-hashicorp/terraform-aws-iampolicyandrole-v3/compare/v1.0.0...v1.0.1) (2024-01-04)
+
+
+### Bug Fixes
+
+* Add fix for patch ([15a1b00](https://github.com/kgabriel-hashicorp/terraform-aws-iampolicyandrole-v3/commit/15a1b00dad58bba7c5c60d4c681582ac3b4bb3c1))
+
 ## 1.0.0 (2024-01-04)
 
 
